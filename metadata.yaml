@@ -1,0 +1,38 @@
+_repo: The-Principal-Speeches-and-Addresses-of-His-Royal-Highness-the-Prince-Consort_61205
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Albert, Prince Consort, consort of Victoria, Queen of Great Britain
+    aliases:
+    - Albert, von Sachsen-Coburg und Gotha
+    - Albert, of Saxe-Coburg and Gotha
+    birthdate: 1819
+    deathdate: 1861
+    gutenberg_agent_id: '51301'
+    url: http://www.gutenberg.org/2009/agents/51301
+    wikipedia: https://en.wikipedia.org/wiki/Albert,_Prince_Consort
+  editor:
+    agent_name: Helps, Arthur, Sir
+    alias: Helps, A.
+    birthdate: 1813
+    deathdate: 1875
+    gutenberg_agent_id: '2469'
+    url: http://www.gutenberg.org/2009/agents/2469
+    wikipedia: http://en.wikipedia.org/wiki/Arthur_Helps
+description: ''
+gutenberg_issued: '2020-01-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61205'
+  lccn: '14021083'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Speeches, addresses, etc.'
+- !lcc 'DA'
+- !lcsh 'Albert, Prince Consort, consort of Victoria, Queen of Great Britain, 1819-1861'
+- GITenberg
+title: The Principal Speeches and Addresses of His Royal Highness the Prince Consort
+url: http://www.gutenberg.org/ebooks/61205
