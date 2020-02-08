@@ -1,5 +1,8 @@
 _repo: The-Principal-Speeches-and-Addresses-of-His-Royal-Highness-the-Prince-Consort_61205
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 61205-h/images/cover.jpg
 creator:
   author:
     agent_name: Albert, Prince Consort, consort of Victoria, Queen of Great Britain
@@ -20,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2469
     wikipedia: http://en.wikipedia.org/wiki/Arthur_Helps
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/61205#The-Principal-Speeches-and-Addresses-of-His-Royal-Highness-the-Prince-Consort
 gutenberg_issued: '2020-01-20'
 gutenberg_type: Text
 identifiers:
